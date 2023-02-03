@@ -1,0 +1,29 @@
+	int a=7;
+		int b =5;
+		int c;
+	int d ='*';
+		switch(d)
+		{
+		case '+':
+			c=a+b;
+			System.out.println(c);
+		break;
+		case '-':
+			c=a-b;
+			System.out.println(c);
+		break;
+		case '*':
+			c=a*b;
+			System.out.println(c);
+		break;
+		case '/':
+			c=a/b;
+			System.out.println(c);
+		break;
+		case '%':
+			c=a%b;
+			System.out.println(c);
+		break;
+		
+		}
+		

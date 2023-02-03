@@ -1,0 +1,17 @@
+int age =19;
+		if(age <=17)
+		{
+			System.out.println("you are a mainer");
+		}
+		else {
+		
+		if(age <=59)
+		{
+			System.out.println("you are a major");
+		}
+		
+			else
+			{
+				System.out.println("you are major and senior citizen");
+			}
+		}

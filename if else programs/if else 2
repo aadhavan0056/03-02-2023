@@ -1,0 +1,10 @@
+int a =8;
+		int b =5;
+		if(a > b)
+		{
+			System.out.println("a is greater than");
+		}
+		else
+		{
+			System.out.println("b greater than");
+		}
